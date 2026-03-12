@@ -2,9 +2,8 @@
 
 A modern take on the classic Snake game built with **pure Vanilla JavaScript** — no frameworks, no dependencies. Features a sleek dark-neon UI, smooth particle effects, progressive difficulty levels, and full mobile support.
 
-![Snake Game Screenshot](https://raw.githubusercontent.com/Daniviecmi287/snake-game/main/docs/screenshot.png)
+![Snake Game Screenshot](https://raw.githubusercontent.com/Daniviecmi287/snake-game/main/screenshot.png)
 
-> **Live Demo:** [https://Daniviecmi287.github.io/snake-game](https://Daniviecmi287.github.io/snake-game)
 
 ---
 
